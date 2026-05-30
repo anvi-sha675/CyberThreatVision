@@ -1,0 +1,10 @@
+const { Router } = require("express");
+const { authenticate, requireAdmin } = require("../middleware/auth");
+const ac = require("../controllers/adminController");
+const r = Router();
+r.use(authenticate, requireAdmin);
+r.get("/health", ac.getSystemHealth);
+r.get("/users", ac.getUsers);
+r.post("/users", ac.createUser);
+r.get("/tables", ac.getTableStats);
+module.exports = r;

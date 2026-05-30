@@ -1,0 +1,11 @@
+const { Router } = require("express");
+const { authenticate } = require("../middleware/auth");
+const dc = require("../controllers/datasetController");
+const r = Router();
+r.use(authenticate);
+r.get("/ips", dc.getIPs);
+r.get("/phishing", dc.getPhishingURLs);
+r.get("/malware", dc.getMalwareSamples);
+r.get("/geo", dc.getGeoData);
+r.get("/stats", dc.getStats);
+module.exports = r;
