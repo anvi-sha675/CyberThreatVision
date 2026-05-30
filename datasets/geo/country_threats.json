@@ -1,0 +1,24 @@
+{
+  "countries": [
+    { "code": "CN", "name": "China", "threat_level": "critical", "attack_count": 48291, "region": "Asia Pacific", "threat_actors": ["APT1","APT10","APT41"], "top_attacks": ["Port Scanning","SSH Brute Force","DDoS"] },
+    { "code": "RU", "name": "Russia", "threat_level": "critical", "attack_count": 39847, "region": "Eastern Europe", "threat_actors": ["Fancy Bear","Cozy Bear","Sandworm"], "top_attacks": ["Ransomware","Phishing","APT"] },
+    { "code": "KP", "name": "North Korea", "threat_level": "critical", "attack_count": 8234, "region": "Asia Pacific", "threat_actors": ["Lazarus Group","BlueNoroff"], "top_attacks": ["Zero-Day","Crypto Theft","SWIFT"] },
+    { "code": "IR", "name": "Iran", "threat_level": "high", "attack_count": 12043, "region": "Middle East", "threat_actors": ["APT33","APT34","Charming Kitten"], "top_attacks": ["Phishing","DDoS","Infrastructure"] },
+    { "code": "UA", "name": "Ukraine", "threat_level": "high", "attack_count": 15821, "region": "Eastern Europe", "threat_actors": ["FIN7","UNC1151"], "top_attacks": ["DDoS","Botnet","Spam"] },
+    { "code": "US", "name": "United States", "threat_level": "medium", "attack_count": 21034, "region": "North America", "threat_actors": [], "top_attacks": ["Spam","Scanning","DDoS"] },
+    { "code": "BR", "name": "Brazil", "threat_level": "medium", "attack_count": 9821, "region": "Latin America", "threat_actors": [], "top_attacks": ["Phishing","Banking Fraud","Spam"] },
+    { "code": "IN", "name": "India", "threat_level": "medium", "attack_count": 11203, "region": "Asia Pacific", "threat_actors": [], "top_attacks": ["Spam","Phishing","Scam"] },
+    { "code": "DE", "name": "Germany", "threat_level": "medium", "attack_count": 7234, "region": "Western Europe", "threat_actors": [], "top_attacks": ["Botnet","Malware","Scanning"] },
+    { "code": "NL", "name": "Netherlands", "threat_level": "medium", "attack_count": 8912, "region": "Western Europe", "threat_actors": [], "top_attacks": ["Scanning","DDoS","Hosting"] },
+    { "code": "NG", "name": "Nigeria", "threat_level": "high", "attack_count": 6234, "region": "Africa", "threat_actors": ["SilverTerrier"], "top_attacks": ["BEC","Phishing","Fraud"] },
+    { "code": "RO", "name": "Romania", "threat_level": "high", "attack_count": 5821, "region": "Eastern Europe", "threat_actors": [], "top_attacks": ["Credential Stuffing","Skimming","Fraud"] },
+    { "code": "TR", "name": "Turkey", "threat_level": "medium", "attack_count": 4312, "region": "Middle East", "threat_actors": [], "top_attacks": ["DDoS","Defacement","Scanning"] },
+    { "code": "HK", "name": "Hong Kong", "threat_level": "high", "attack_count": 7102, "region": "Asia Pacific", "threat_actors": [], "top_attacks": ["DDoS","Scanning","C2 Hosting"] },
+    { "code": "VN", "name": "Vietnam", "threat_level": "medium", "attack_count": 3891, "region": "Asia Pacific", "threat_actors": ["APT32"], "top_attacks": ["APT","Phishing","Scanning"] },
+    { "code": "ID", "name": "Indonesia", "threat_level": "medium", "attack_count": 3234, "region": "Asia Pacific", "threat_actors": [], "top_attacks": ["Spam","Phishing","Defacement"] },
+    { "code": "PK", "name": "Pakistan", "threat_level": "medium", "attack_count": 2891, "region": "Asia Pacific", "threat_actors": [], "top_attacks": ["Phishing","Scam","Fraud"] },
+    { "code": "FR", "name": "France", "threat_level": "low", "attack_count": 3102, "region": "Western Europe", "threat_actors": [], "top_attacks": ["Scanning","Spam"] },
+    { "code": "GB", "name": "United Kingdom", "threat_level": "low", "attack_count": 2734, "region": "Western Europe", "threat_actors": [], "top_attacks": ["Scanning","Spam","Phishing"] },
+    { "code": "JP", "name": "Japan", "threat_level": "medium", "attack_count": 4123, "region": "Asia Pacific", "threat_actors": [], "top_attacks": ["DDoS","Scanning","IoT Attacks"] }
+  ]
+}

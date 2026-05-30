@@ -1,0 +1,31 @@
+url,domain,ip_address,category,target_brand,risk_score,is_active,country_code,url_length,has_https,has_ip,subdomain_count,special_chars,detected_date,ml_score
+https://paypal-secure-login24.com/login,paypal-secure-login24.com,185.220.50.10,Brand Impersonation,PayPal,96,true,RU,44,true,false,0,3,2024-01-15,0.97
+https://microsoft365-verify.net/auth,microsoft365-verify.net,45.33.32.156,Credential Harvest,Microsoft,88,true,CN,37,true,false,0,2,2024-02-01,0.91
+https://amazon-security-alert.xyz/verify,amazon-security-alert.xyz,192.64.119.27,Brand Impersonation,Amazon,91,true,NG,43,true,false,0,3,2024-01-20,0.94
+https://apple-id-locked-2024.top/unlock,apple-id-locked-2024.top,104.21.55.6,Brand Impersonation,Apple,85,true,BR,39,true,false,0,2,2024-02-10,0.88
+https://netflix-billing-update.info/pay,netflix-billing-update.info,167.71.120.6,Billing Fraud,Netflix,79,true,IN,37,true,false,0,2,2024-03-01,0.82
+https://secure.bankofamerica-alert.com/login,bankofamerica-alert.com,185.234.218.43,Banking Fraud,Bank of America,93,true,RO,48,true,false,1,3,2024-01-25,0.96
+https://chase-security.update-account.net/verify,update-account.net,80.82.77.33,Banking Fraud,Chase,90,true,NL,49,true,false,2,4,2024-02-15,0.93
+https://dhl-package-tracking.xyz/track,dhl-package-tracking.xyz,46.101.66.244,Shipping Fraud,DHL,77,true,DE,37,true,false,0,2,2024-03-10,0.80
+https://fedex-delivery-confirm.com/order,fedex-delivery-confirm.com,178.128.23.11,Shipping Fraud,FedEx,75,true,BR,40,true,false,0,2,2024-03-15,0.78
+https://linkedin-jobs-alert.net/apply,linkedin-jobs-alert.net,167.172.11.58,Job Scam,LinkedIn,72,true,US,38,true,false,0,2,2024-04-01,0.75
+https://coinbase-wallet-verify.com/secure,coinbase-wallet-verify.com,91.108.56.130,Crypto Scam,Coinbase,94,true,UA,41,true,false,0,2,2024-01-10,0.97
+https://metamask-wallet-connect.xyz/auth,metamask-wallet-connect.xyz,5.188.206.26,Crypto Scam,MetaMask,96,true,DE,42,true,false,0,2,2024-01-12,0.98
+https://irs-tax-refund-2024.com/claim,irs-tax-refund-2024.com,103.75.190.14,Government Impersonation,IRS,88,true,IN,34,true,false,0,2,2024-02-20,0.91
+https://wellsfargo-account-update.net/login,wellsfargo-account-update.net,62.210.37.171,Banking Fraud,Wells Fargo,86,true,FR,44,true,false,0,3,2024-02-25,0.89
+https://google-account-verify-2024.com/check,google-account-verify-2024.com,149.28.111.98,Brand Impersonation,Google,82,true,JP,46,true,false,0,2,2024-03-05,0.85
+https://instagram-verify.support-team.com/check,support-team.com,104.248.143.196,Social Media Fraud,Instagram,84,true,US,49,true,false,1,3,2024-03-08,0.87
+https://docusign-document-pending.net/sign,docusign-document-pending.net,118.25.6.39,Corporate Phish,DocuSign,80,true,CN,43,true,false,0,2,2024-03-20,0.83
+https://zoom-meeting-invite.account-verify.com/join,account-verify.com,45.142.212.100,Corporate Phish,Zoom,87,true,CN,51,true,false,1,3,2024-02-28,0.90
+https://dropbox-shared-file.secure-view.net/open,secure-view.net,31.184.198.23,Corporate Phish,Dropbox,81,true,RU,49,true,false,1,3,2024-03-25,0.84
+https://steam-gift-card-winner.xyz/redeem,steam-gift-card-winner.xyz,23.95.67.143,Scam,Steam,92,true,KP,41,true,false,0,3,2024-01-05,0.95
+http://192.168.1.1.paypal.phish-site.ru/login,phish-site.ru,176.107.177.98,Brand Impersonation,PayPal,99,true,UA,47,false,true,2,5,2024-01-02,0.99
+https://microsoft-account-suspended.net/restore,microsoft-account-suspended.net,89.248.165.54,Credential Harvest,Microsoft,89,true,NL,46,true,false,0,2,2024-02-05,0.92
+https://amazon-prime-renew-now.com/billing,amazon-prime-renew-now.com,195.54.160.148,Billing Fraud,Amazon,83,true,DE,41,true,false,0,2,2024-03-12,0.86
+https://apple-support-locked.com/verify-id,apple-support-locked.com,209.141.60.220,Brand Impersonation,Apple,86,true,US,42,true,false,0,2,2024-02-18,0.89
+https://binance-kyc-verify.com/complete,binance-kyc-verify.com,43.153.14.54,Crypto Scam,Binance,93,true,HK,37,true,false,0,2,2024-01-08,0.96
+https://twitter-verify-badge.net/confirm,twitter-verify-badge.net,198.199.82.245,Social Media Fraud,Twitter/X,77,true,US,38,true,false,0,2,2024-04-05,0.80
+https://usps-package-fee.com/pay,usps-package-fee.com,188.166.236.53,Shipping Fraud,USPS,74,true,NL,30,true,false,0,2,2024-04-10,0.77
+https://walmart-rewards-winner.xyz/claim,walmart-rewards-winner.xyz,5.101.40.81,Scam,Walmart,78,true,RU,38,true,false,0,2,2024-03-28,0.81
+https://github-security-alert.dev/verify,github-security-alert.dev,80.82.77.33,Corporate Phish,GitHub,79,true,NL,36,true,false,0,2,2024-04-02,0.82
+https://adobe-creative-cloud-verify.net/login,adobe-creative-cloud-verify.net,185.130.5.231,Brand Impersonation,Adobe,76,true,RU,43,true,false,0,2,2024-04-08,0.79

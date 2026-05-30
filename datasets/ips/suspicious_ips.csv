@@ -1,0 +1,31 @@
+ip_address,country_code,country_name,isp,abuse_score,attack_types,report_count,is_tor,is_proxy,threat_level,latitude,longitude,first_seen,last_seen
+185.220.101.45,RU,Russia,Frantech Solutions,98,"SSH Brute Force,Port Scanning",2847,true,false,critical,55.7558,37.6173,2023-01-15,2024-12-01
+45.142.212.100,CN,China,Alibaba Cloud,82,"Port Scanning,DDoS",1203,false,false,high,39.9042,116.4074,2023-03-01,2024-11-28
+91.108.56.130,UA,Ukraine,M247 Ltd,95,"DDoS,Botnet C2",4521,false,false,critical,50.4501,30.5234,2023-01-01,2024-12-02
+103.75.190.14,IN,India,DigitalOcean LLC,71,"SQL Injection,Spam",892,false,false,high,28.6139,77.2090,2023-06-15,2024-10-30
+5.188.206.26,DE,Germany,Hetzner Online,88,"Botnet C2,Malware Distribution",1456,false,true,critical,51.1657,10.4515,2023-02-20,2024-12-01
+194.165.16.72,NL,Netherlands,OVH SAS,84,"RDP Exploit,Ransomware",1102,false,false,high,52.3676,4.9041,2023-04-10,2024-11-25
+178.128.23.11,BR,Brazil,Linode LLC,55,"XSS,CSRF",334,false,false,medium,14.2350,-51.9253,2023-07-01,2024-09-15
+23.95.67.143,KP,North Korea,Unknown ISP,99,"Zero-Day Exploit,APT",8923,false,false,critical,40.3399,127.5101,2023-01-01,2024-12-03
+202.182.96.30,JP,Japan,Choopa LLC,76,"DNS Amplification,UDP Flood",678,false,false,high,36.2048,138.2529,2023-05-15,2024-11-10
+31.184.198.23,RU,Russia,Selectel Ltd,91,"SSH Brute Force,FTP Brute Force",3102,true,false,critical,55.7558,37.6173,2023-02-01,2024-12-01
+103.21.244.0,SG,Singapore,Cloudflare,45,"Web Scraping",89,false,true,low,1.3521,103.8198,2023-08-01,2024-07-20
+167.172.11.58,US,United States,DigitalOcean,62,"Spam,Phishing",445,false,false,medium,37.7749,-122.4194,2023-06-01,2024-10-15
+185.234.218.43,RO,Romania,M247 Europe,87,"Credential Stuffing,Account Takeover",1876,false,false,high,45.9432,24.9668,2023-03-15,2024-11-30
+62.210.37.171,FR,France,Online SAS,73,"Port Scanning,Vulnerability Scanning",567,false,false,medium,46.2276,2.2137,2023-04-20,2024-10-01
+46.101.66.244,DE,Germany,DigitalOcean,69,"Botnet",789,false,false,medium,51.1657,10.4515,2023-05-01,2024-09-28
+192.241.128.0,US,United States,DigitalOcean,58,"DDoS Amplification",234,false,false,medium,40.7128,-74.0060,2023-07-10,2024-08-15
+80.82.77.33,NL,Netherlands,Quasinetworks,96,"IoT Attack,Mirai Botnet",5432,false,false,critical,52.3676,4.9041,2023-01-20,2024-12-01
+104.248.143.196,US,United States,DigitalOcean,77,"SMTP Abuse,Spam",1023,false,false,high,37.7749,-122.4194,2023-04-05,2024-11-20
+149.28.111.98,JP,Japan,Vultr Holdings,65,"SSH Brute Force",412,false,false,medium,36.2048,138.2529,2023-06-20,2024-10-10
+185.130.5.231,RU,Russia,JSC Mediasoft,89,"Phishing,Malware Hosting",2341,true,false,critical,55.7558,37.6173,2023-02-15,2024-12-02
+89.248.165.54,NL,Netherlands,Quasinetworks,94,"Vulnerability Scanning,Exploit",3210,false,false,critical,52.3676,4.9041,2023-01-25,2024-12-01
+198.199.82.245,US,United States,DigitalOcean,61,"Port Scanning",289,false,false,medium,40.7128,-74.0060,2023-07-15,2024-09-01
+43.153.14.54,HK,Hong Kong,Tencent Cloud,78,"DDoS,CC Attack",934,false,false,high,22.3193,114.1694,2023-05-10,2024-11-15
+195.54.160.148,DE,Germany,Contabo GmbH,83,"Ransomware Distribution",1567,false,false,high,51.1657,10.4515,2023-03-20,2024-11-28
+188.166.236.53,NL,Netherlands,DigitalOcean,70,"Phishing",623,false,false,medium,52.3676,4.9041,2023-06-05,2024-10-20
+5.101.40.81,RU,Russia,Petersburg Internet Network,92,"SSH Brute Force,Credential Stuffing",2876,false,false,critical,59.9311,30.3609,2023-02-10,2024-12-01
+176.107.177.98,UA,Ukraine,Private Layer Inc,86,"Spam,Phishing",1345,false,false,high,50.4501,30.5234,2023-04-01,2024-11-22
+209.141.60.220,US,United States,Frantech Solutions,79,"Tor Exit,Anonymization",1102,true,true,high,36.1699,-115.1398,2023-05-20,2024-11-05
+118.25.6.39,CN,China,Tencent Cloud,74,"Port Scanning,Web Attack",789,false,false,high,39.9042,116.4074,2023-07-01,2024-10-28
+45.33.32.156,US,United States,Linode,67,"DDoS,Amplification",512,false,false,medium,37.7749,-122.4194,2023-06-25,2024-09-15
